@@ -22,5 +22,8 @@ public class Test
 
         Person p3= new Person ("Lobo", 44);
         System.out.println (p3.getName ());
+        
+        Person p4= new Person ("Zeid", 24);
+        System.out.println (p4.getName ());
     }
 }
